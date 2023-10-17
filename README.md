@@ -40,3 +40,6 @@ $ npm run dev
 # build
 $ npm run build
 ```
+## Demo
+
+You can visit deployed project: https://chat-client-xsrm.onrender.com/
